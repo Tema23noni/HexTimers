@@ -1,0 +1,1 @@
+Thit is hexTimer on vanila Js
